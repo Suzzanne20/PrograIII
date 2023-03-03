@@ -7,6 +7,6 @@
 @endsection
 
 @section('content')
-    <p>Este es el contenido de la vista</p>
+    <p>HOLA PINCHE MUNDO</p>
 
 @endsection
