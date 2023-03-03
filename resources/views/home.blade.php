@@ -3,7 +3,7 @@
 @section('title', 'Page Title')
 
 @section('sidebar')
-    <p>Este es el texto de la vista secundaria.</p>
+    <p>Este es el texto de la vista segunda.</p>
 @endsection
 
 @section('content')
